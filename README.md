@@ -10,50 +10,14 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Beecon</h3>
 
   <p align="center">
     The Spontaneous Gathering App
     <br />
-    <a href="https://github.com/AlexanderTaliaferro/BeeconApp"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/AlexanderTaliaferro/BeeconApp">View Demo</a>
-    &middot;
-    <a href="https://github.com/AlexanderTaliaferro/BeeconApp/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    &middot;
-    <a href="https://github.com/AlexanderTaliaferro/BeeconApp/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+   
   </p>
 </div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -61,7 +25,15 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `AlexanderTaliaferro`, `BeeconApp`, `twitter_handle`, `linkedin_username`, `gmail`, `theBeeconApp`, `project_title`, `The Spontaneous Gathering App`, `project_license`
+ Beecon is a social app for spontaneous get-togethers. It was created to make it easier together at a moments notice.
+
+Beecons are organized around activities both irl and virtual. Spark a Beecon to let others know you're interested in doing something and if critical mass is reached, the activity is a go! 
+
+Take the anxiety out of big group texts, create more opportunities to see friends, turn whims into wins, and do more with Beecon today. Find Beecons for activities you're interested in and get notified when others are looking for people to do that activity with. 
+
+Add spontaneity to your life or make the most of those sudden scraps of free time in your busy week! 
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,14 +41,9 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
+* [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+* [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -232,3 +199,4 @@ Project Link: [https://github.com/AlexanderTaliaferro/BeeconApp](https://github.
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
