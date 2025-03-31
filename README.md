@@ -57,7 +57,7 @@ Dowloand the latest version from the iOS app store or Google Play Store
 
 
 ### Prerequisites
-iOS 12 or higher   OR   android 8 or higher
+iOS 12 or higher    OR    android 8 or higher
 
 
 
