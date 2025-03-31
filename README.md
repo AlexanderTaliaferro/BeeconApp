@@ -80,13 +80,11 @@ Lead Designer: Alexander Kareem Taliaferro   [IG](https://www.instagram.com/kare
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- PRIVACY -->
 
 
 ## Privacy Policy
+<a id="privacy-policy"></a>
 <p>Last updated: March 31, 2025</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator/" target="_blank">Free Privacy Policy Generator</a>.</p>
@@ -244,6 +242,9 @@ Lead Designer: Alexander Kareem Taliaferro   [IG](https://www.instagram.com/kare
 <p>By visiting this page on our website: <a href="https://alexandertaliaferro.github.io/BeeconApp/" rel="external nofollow noopener" target="_blank">https://alexandertaliaferro.github.io/BeeconApp/</a></p>
 </li>
 </ul>
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
