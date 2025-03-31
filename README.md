@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/AlexanderTaliaferro/BeeconApp">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/BeeconFull.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Beecon</h3>
