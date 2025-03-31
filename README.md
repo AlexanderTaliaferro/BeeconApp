@@ -23,7 +23,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
  Beecon is a social app for spontaneous get-togethers. It was created to make it easier together at a moments notice.
 
