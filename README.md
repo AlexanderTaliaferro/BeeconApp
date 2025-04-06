@@ -80,6 +80,99 @@ Lead Designer: Alexander Kareem Taliaferro   [IG](https://www.instagram.com/kare
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Terms of Service -->
+## Beecon End User License Agreement (EULA) / Terms of Service
+
+**Effective Date:** 4/1/2025
+
+Welcome to **Beecon** (“App”). By using or accessing the App, you agree to be bound by the following Terms of Service ("Agreement"). If you do not agree with these terms, please do not use the App.
+
+---
+
+### 1. Acceptance of Terms
+
+By accessing or using the App, you acknowledge that you have read, understood, and agree to be bound by this Agreement. If you are under the age of 13 (or the minimum legal age in your country), you may not use the App.
+
+---
+
+### 2. License
+
+**Beecon** grants you a limited, non-exclusive, non-transferable, revocable license to use the App for your personal, non-commercial use, subject to this Agreement.
+
+---
+
+### 3. Prohibited Conduct
+
+You agree **NOT** to:
+
+- Use the App for any unlawful or harmful purpose.  
+- Upload, post, or share any content that is **objectionable**, **abusive**, **harassing**, **defamatory**, **hateful**, **sexually explicit**, or **threatening**.  
+- Impersonate any person or entity.  
+- Violate any applicable law, regulation, or third-party right.  
+- Attempt to reverse-engineer, hack, or otherwise disrupt the operation of the App.
+
+---
+
+### 4. Zero Tolerance for Objectionable Content
+
+**Beecon** maintains a strict zero-tolerance policy for **objectionable content and abusive behavior**, including but not limited to:
+
+- Hate speech, racism, sexism, or discrimination of any kind  
+- Sexual harassment or exploitation  
+- Bullying, threats, or intimidation  
+- Posting or sharing of illegal or explicit material
+
+**Violations will result in immediate account suspension or permanent banning without notice or refund (if applicable).**
+
+We reserve the right to monitor, moderate, and remove any content or user account that violates these standards.
+
+---
+
+### 5. User Content
+
+You retain ownership of any content you upload, but you grant **Beecon** a non-exclusive, royalty-free, worldwide license to use, modify, and display your content solely to provide and improve the App.
+
+You are solely responsible for the content you post and its compliance with these terms.
+
+---
+
+### 6. Privacy Policy
+
+Your use of the App is also governed by our [Privacy Policy](https://github.com/AlexanderTaliaferro/BeeconApp?tab=readme-ov-file#privacy-policy), which describes how we collect, use, and protect your personal data.
+
+---
+
+### 7. Termination
+
+We may terminate or suspend your access to the App at any time, with or without cause or notice, if we believe you have violated this Agreement or engaged in objectionable conduct.
+
+---
+
+### 8. Disclaimer of Warranties
+
+The App is provided “as is” without warranties of any kind. We do not guarantee that the App will be secure, error-free, or available at all times.
+
+---
+
+### 9. Limitation of Liability
+
+In no event shall **Beecon** be liable for any indirect, incidental, special, or consequential damages arising out of your use of the App.
+
+---
+
+### 10. Changes to Terms
+
+We reserve the right to update or change this Agreement at any time. Continued use of the App after changes indicates your acceptance of the new terms.
+
+---
+
+### 11. Contact
+
+If you have any questions about these Terms, please contact us at:
+
+**Email:** [theBeeconApp@gmail.com](mailto:theBeeconApp@gmail.com)
+
+
 <!-- PRIVACY -->
 
 
