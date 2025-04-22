@@ -325,6 +325,8 @@ If you have any questions about these Terms, please contact us at:
 <p>We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.</p>
 <p>We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the &quot;Last updated&quot; date at the top of this Privacy Policy.</p>
 <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
+<h2>Account Deletion</h2>
+<p>If you would like to delete your account you can do so through the app by going to "Settings" and selecting delete account from the options menu at the top of the page. All of your associated data will be deleted at that time. You can also request an account deletion by contacting us through one of the methods below. </p>
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
